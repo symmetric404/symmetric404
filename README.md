@@ -1,7 +1,8 @@
 # About Me:
 
 ### Projects
-  - Nothing publicly available, yet.
+  - [OptiFine Jar Fix Batch](https://github.com/symmetric404/OptiFine-Jar-Fix-Batch)
+  - Other various private repositories...
 
 ### Current Education Status
   - Highschool
