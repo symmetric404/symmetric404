@@ -3,6 +3,7 @@
 ### Projects
   - [OptiFine Jar Fix Batch](https://github.com/symmetric404/OptiFine-Jar-Fix-Batch)
   - [Minecraft Bypass](https://github.com/symmetric404/Minecraft-Bypass)
+  - [ZDay20](https://github.com/symmetric404/ZDay20)
   - Other various private repositories...
 
 ### Current Education Status
